@@ -1,7 +1,7 @@
 # Web Mining and Applied NLP (44-620)
 
 ## Final Project: Article Summarizer
-### Student Name: Naiema Elsaadi
+### Student Name: Desiree Blake
 
 ## Introduction
 <b>
