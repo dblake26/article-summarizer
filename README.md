@@ -7,7 +7,8 @@
 <b>
 The project is a Python-based text analysis tool that performs sentiment analysis on articles retrieved from online sources. It utilizes natural language processing (NLP) techniques to analyze the sentiment of articles and provides insights into the emotional tone of the text.
 
-This project will specifically analysis on 'State of Homelessness: 2023 Addition' by the National Alliance to End Homelessness. The article can be found here: [NAEH Article](https://endhomelessness.org/homelessness-in-america/homelessness-statistics/state-of-homelessness/).   
+
+This project will specifically perform analysis on 'State of Homelessness: 2023 Addition' by the National Alliance to End Homelessness. The article can be found here: [NAEH Article](https://endhomelessness.org/homelessness-in-america/homelessness-statistics/state-of-homelessness/).   
 </b>
 
 
