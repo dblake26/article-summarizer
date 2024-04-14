@@ -5,7 +5,10 @@
 
 ## Introduction
 <b>
-The project is a Python-based text analysis tool that performs sentiment analysis on articles retrieved from online sources. It utilizes natural language processing (NLP) techniques to analyze the sentiment of articles and provides insights into the emotional tone of the text.</b>
+The project is a Python-based text analysis tool that performs sentiment analysis on articles retrieved from online sources. It utilizes natural language processing (NLP) techniques to analyze the sentiment of articles and provides insights into the emotional tone of the text.
+
+This project will specifically analysis on 'State of Homelessness: 2023 Addition' by the National Alliance to End Homelessness. The article can be found here: [NAEH Article](https://endhomelessness.org/homelessness-in-america/homelessness-statistics/state-of-homelessness/).   
+</b>
 
 
 ### Key features of the project include:
@@ -94,10 +97,10 @@ git clone Repo
 2. Navigate to the project directory:
 cd file
 3. Create a virtual environment (optional but recommended):
-python -m venv venv
+cd C:\Users\desir\webminenv
 4. Activate the virtual environment:
  For Windows:
-venv\Scripts\activate
+.\Scripts\activate
 5. Install the required packages:
 pip install -r requirements.txt
 6. Launch Jupyter Lab:
